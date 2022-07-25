@@ -6,9 +6,9 @@ The settings (INSTALLED APPS and TEMPLATES),afterwhich a template folder has bee
 views file,
 urls file. 
 Then runserver and view(download).
-#The settings.py
+# The settings.py
 here, blog was added to installed apps and the template folder in blog, linked to templates in addas folder. see below; 
-#The views.py
+# The views.py
 here, modules were imported which are mimetypes, os, httpresponse. then the download path and other reponses were updated. also see below;
-#The urls.py
+# The urls.py
 here the urlpattern for the download, and the import views were updated.
